@@ -10,7 +10,7 @@ Accurate license plate detection is crucial for applications like traffic enforc
 
 ## Data Creation and Filtering
 
-For this project, license plate images were scraped from the **PlatesMania website** using a custom-built scraper, which can be found on GitHub at [PlatesMania-Scraper](https://github.com/ThomasDerrien/PlatesMania-Scraper).
+For this project, license plate images were scraped from the **PlatesMania website** using a custom-built scraper, which can be found on my GitHub at [PlatesMania-Scraper](https://github.com/ThomasDerrien/PlatesMania-Scraper).
 
 After collecting the data, we applied a filtering process to remove images from countries with special characters in their names, specifically: 
 - URSS
