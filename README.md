@@ -32,6 +32,7 @@ The dataset was partitioned as follows:
 - 15% for validation
 - 15% for testing
 
+Data is available [here](https://drive.google.com/file/d/1IFiBKScRZ5oq6uYg4d3uVMg37oxIk49z/view?usp=drive_link) 
 
 ## Plate Detection
 
